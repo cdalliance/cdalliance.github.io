@@ -1,0 +1,33 @@
+.blue {
+  color: #51a1cc;
+}
+
+.hero-area .block h1 {
+  font-size: 75px;
+}
+
+.navbar-brand > img {
+  max-height: 45px;
+  margin-bottom: 8px;
+}
+
+.member > img {
+  object-fit: contain;
+}
+
+.why-content {
+  color: #CCCCCC;
+  font-size: 1.2em;
+}
+
+.far {
+  -webkit-text-stroke: 2px rgb(41, 47, 54);
+}
+
+.tf-ion-android-cloud-outline {
+  -webkit-text-stroke: 1px rgb(41, 47, 54);
+}
+
+.contact-us {
+  padding-bottom: 50px;
+}
