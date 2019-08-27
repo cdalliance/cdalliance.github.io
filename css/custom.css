@@ -3,7 +3,7 @@
 }
 
 .hero-area .block h1 {
-  font-size: 3em;
+  font-size: 75px;
 }
 
 .navbar-brand > img {
@@ -13,6 +13,14 @@
 
 .member > img {
   object-fit: contain;
+}
+
+#why .content-block {
+  margin-top: 50px;
+}
+
+#why .img-fluid {
+  margin-top: 25px;
 }
 
 .why-content {
@@ -30,4 +38,12 @@
 
 .contact-us {
   padding-bottom: 50px;
+}
+
+article .content p {
+  color: #fff;
+}
+
+.post-single-content {
+  color: #fff;
 }
